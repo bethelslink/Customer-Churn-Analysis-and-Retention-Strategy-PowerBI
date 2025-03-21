@@ -88,22 +88,32 @@ Contract Type
 55% Month-to-Month
 24% Two-Year
 21% One-Year
+
 ## Churn Risk Factors
- # Churn Rate by Internet Service
+
+  - **Churn Rate by Internet Service**
+ 
 Fiber Optic: 41.89%
+
 DSL: 18.96%
+
 No Internet: 7.40%
-Churn by Contract Type
+
+ - **Churn by Contract Type** 
+
 Month-to-Month contracts show the highest churn rate.
 
 ## Insights and Business Recommendations
-Key Observations
+ - **Key Observations**
+ - 
 High churn in Month-to-Month contracts suggests customers need better retention incentives.
 
 Electronic check users have higher churn rates, indicating potential payment issues.
 
 Fiber optic customers have the highest churn, possibly due to service-related dissatisfaction.
+
 ## Actionable Recommendations
+
 Increase customer loyalty programs for Month-to-Month contracts to encourage longer commitments.
 
 Improve support for Fiber Optic customers to reduce dissatisfaction.
