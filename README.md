@@ -73,18 +73,27 @@ Average Monthly Charges = AVERAGE(Churn[MonthlyCharges])
 ## Visualization Breakdown
 
 ## Key Performance Indicators (KPIs)
+
 7043 Customers at Risk
+
 $16.06M Yearly Charges
+
 26.54% Churn Rate
 ## Demographics Analysis
-Gender Split: 49.5% Male, 50.5% Female.
-Senior Citizens: 25% of customers.
-Dependents: 17% of customers have dependents.
+- Gender Split: 49.5% Male, 50.5% Female.
+
+- Senior Citizens: 25% of customers.
+ Dependents: 17% of customers have dependents.
+
 ## Service and Subscription Analysis
-Multiple Lines Subscription: 50.03% Yes, 49.97% No.
-Streaming TV & Movies: Both at 44%.
-Online Security: 16% adoption rate.
-Contract Type
+
+- Multiple Lines Subscription:
+50.03% Yes, 49.97% No.
+- Streaming TV & Movies: Both at 44%.
+
+- Online Security: 16% adoption rate.
+
+- Contract Type
 55% Month-to-Month
 24% Two-Year
 21% One-Year
@@ -104,23 +113,23 @@ No Internet: 7.40%
 Month-to-Month contracts show the highest churn rate.
 
 ## Insights and Business Recommendations
- - **Key Observations**
- - 
-High churn in Month-to-Month contracts suggests customers need better retention incentives.
+  **Key Observations**
 
-Electronic check users have higher churn rates, indicating potential payment issues.
+- High churn in Month-to-Month contracts suggests customers need better retention incentives.
 
-Fiber optic customers have the highest churn, possibly due to service-related dissatisfaction.
+- Electronic check users have higher churn rates, indicating potential payment issues.
+
+- Fiber optic customers have the highest churn, possibly due to service-related dissatisfaction.
 
 ## Actionable Recommendations
 
-Increase customer loyalty programs for Month-to-Month contracts to encourage longer commitments.
+- Increase customer loyalty programs for Month-to-Month contracts to encourage longer commitments.
 
-Improve support for Fiber Optic customers to reduce dissatisfaction.
+- Improve support for Fiber Optic customers to reduce dissatisfaction.
 
-Encourage Auto-Payments to reduce churn caused by payment failures.
+- Encourage Auto-Payments to reduce churn caused by payment failures.
 
-Expand Tech Support Capacity to minimize customer frustration.
+- Expand Tech Support Capacity to minimize customer frustration.
 
 ## Conclusion
 This Power BI report provides valuable insights into customer churn trends, enabling PhoneNow to take proactive steps to improve retention. The combination of demographics, financial metrics, and service adoption rates helps pinpoint key risk factors and guide business decisions.
